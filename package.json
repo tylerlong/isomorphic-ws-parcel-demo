@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel -p 8081 index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "isomorphic-ws": "^5.0.0"
+  }
+}
